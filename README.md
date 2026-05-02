@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlhOWgwc2lsOGE0Nnh3NWk3MGRsNGEwaHc2NWM2YXVhMGVqZXNpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iIADpnyyfjD5zdm5sa/giphy.gif" width="400"/>
 
-i build systems that **observe, decide, and act**.
+i build systems that **observe, decide, and act**. (it's supposed to be on caffeine ☝️)
 
 sometimes it's:
 - thrift stores pricing clothes with CV pipelines  
@@ -14,7 +14,7 @@ sometimes it's:
 
 ## ⚙️ what i work on
 
-**real systems > toy projects**
+**real systems \(\ge \) toy projects**
 
 - 🧥 **ThriftOS**  
   full-stack POS + inventory system with computer vision pipelines, async job queues, and resale analytics
@@ -25,11 +25,12 @@ sometimes it's:
 - 🌍 **Disaster Swarm Environment**  
   LLM-controlled multi-UAV search & rescue simulation (fog, signal noise, comm constraints, battery tradeoffs)
 
-- 📦 **MashMakes Tracker**  
+- 📦 **Shipment Tracker**  
   zero-maintenance shipment tracker using Google Sheets + Slack + resilient scraping
 
 - 📧 **SafeMail**  
   rate-limited, human-in-the-loop email automation with safety-first design
+
 
 ---
 
@@ -37,7 +38,7 @@ sometimes it's:
 
 - systems first, UI later  
 - async everything  
-- failure is a design input, not an edge case  
+- if it can break at scale, it will. so i break it first, on purpose, with snacks.
 - autonomy must be **constrained, observable, and overrideable**  
 - if it can break at scale, it *will* — so design for it upfront  
 
