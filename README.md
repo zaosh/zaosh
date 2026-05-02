@@ -44,8 +44,8 @@ sometimes it's:
 
 ## ☕ side quests
 
-- aviation enthusiast ✈️  
-- drone nerd (yes, i care about birds eye view (fpv) more than most people)  
+- aviation enthusiast ✈️  (yes, my comfort show is aircrash investigation)
+- drone nerd (and yes, i care about birds eye view (fpv) more than most birds)  
 - coffee — i can go **unreasonably deep** into extraction, roast profiles, and why your brew is mid  
 - self-declared racecar driver (legally questionable, spiritually accurate)  
 
@@ -56,7 +56,7 @@ sometimes it's:
 systems where:
 - LLMs are not just “chatting” — they are **acting**
 - autonomy is layered, not blind
-- software meets real-world constraints
+- Safe UAV systems around us fr. 
 
 ---
 
