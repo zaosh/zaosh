@@ -37,16 +37,15 @@ sometimes it's:
 
 - systems first, UI later  
 - async everything  
-- failure is a design input, not an edge case  
 - autonomy must be **constrained, observable, and overrideable**  
-- if it can break at scale, it *will* — so design for it upfront  
+- if it can break at scale, it will. so i break it first, on purpose, with snacks.  
 
 ---
 
 ## ☕ side quests
 
 - aviation enthusiast ✈️  
-- drone nerd (yes, i care about control loops more than most people)  
+- drone nerd (yes, i care about birds eye view (fpv) more than most people)  
 - coffee — i can go **unreasonably deep** into extraction, roast profiles, and why your brew is mid  
 - self-declared racecar driver (legally questionable, spiritually accurate)  
 
