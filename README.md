@@ -7,7 +7,7 @@ i build systems that **observe, decide, and act**.
 sometimes it's:
 - robotic arms with a personality. 
 - UAVs coordinating mid-air with safety layers  
-- LLMs controlling swarms in disaster simulations  
+- Systems controlling swarms in disaster simulations  
 - shipment trackers that run quietly in the background and never break  
 
 ---
