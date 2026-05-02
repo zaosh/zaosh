@@ -60,6 +60,13 @@ systems where:
 
 ---
 
+## ⚡ philosophy
+
+> if your system needs babysitting, it’s not done yet
+> ~ Zaosh's claude code
+
+---
+
 ## 🛠️ stack (when it matters)
 
 `python` `fastapi` `postgres` `asyncio`  
@@ -67,13 +74,6 @@ systems where:
 `cv` `ml` `llm orchestration`  
 `docker` `nginx`  
 `zeroMQ` `distributed systems`
-
----
-
-## ⚡ philosophy
-
-> if your system needs babysitting, it’s not done yet
-> ~ Zaosh's claude code
 
 ---
 
