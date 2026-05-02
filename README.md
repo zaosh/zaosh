@@ -12,7 +12,7 @@ sometimes it's:
 
 ---
 
-## ⚙️ what i work on
+## ⚙️ what I've built:
 
 **real systems > toy projects**
 
