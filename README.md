@@ -47,7 +47,7 @@ sometimes it's:
 - aviation enthusiast ✈️  (yes, my comfort show is aircrash investigation)
 - drone nerd (and yes, i care about birds eye view (fpv) more than most birds)  
 - coffee — i can go **unreasonably deep** into extraction, roast profiles, and why your brew is mid  
-- self-declared racecar driver (legally questionable, spiritually accurate)  
+- self-declared racecar driver (questionable legally but spiritually accurate)  
 
 ---
 
