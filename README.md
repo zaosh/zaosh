@@ -72,7 +72,8 @@ systems where:
 
 ## ⚡ philosophy
 
-> if your system needs babysitting, it’s not done yet.
+> if your system needs babysitting, it’s not done yet
+> ~ Zaosh's claude code
 
 ---
 
