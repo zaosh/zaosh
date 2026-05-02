@@ -5,7 +5,7 @@
 i build systems that **observe, decide, and act**.
 
 sometimes it's:
-- thrift stores pricing clothes with CV pipelines  
+- robotic arms with a personality doing something useful or making my lfie easy.
 - UAVs coordinating mid-air with safety layers  
 - LLMs controlling swarms in disaster simulations  
 - shipment trackers that run quietly in the background and never break  
@@ -16,7 +16,7 @@ sometimes it's:
 
 **real systems > toy projects**
 
-- 🧥 **ThriftOS**  
+- 🧥 **ThriftOS ERP**  
   full-stack POS + inventory system with computer vision pipelines, async job queues, and resale analytics
 
 - 🚁 **UAV Autonomy Stack**  
@@ -25,7 +25,7 @@ sometimes it's:
 - 🌍 **Disaster Swarm Environment**  
   LLM-controlled multi-UAV search & rescue simulation (fog, signal noise, comm constraints, battery tradeoffs)
 
-- 📦 **MashMakes Tracker**  
+- 📦 **system Tracker**  
   zero-maintenance shipment tracker using Google Sheets + Slack + resilient scraping
 
 - 📧 **SafeMail**  
