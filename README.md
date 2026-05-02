@@ -56,7 +56,7 @@ sometimes it's:
 systems where:
 - LLMs are not just “chatting” — they are **acting**
 - autonomy is layered, not blind
-- Safe UAV systems around us fr. 
+- Safe UAV systems around humans fr. 
 
 ---
 
